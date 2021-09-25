@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-24T12:22:56Z" name="Suite" finished-at="2021-09-24T12:24:35Z" duration-ms="99460">
+    <groups>
+    </groups>
+    <test started-at="2021-09-24T12:22:56Z" name="Test" finished-at="2021-09-24T12:24:35Z" duration-ms="99460">
+      <class name="Tests.TestCasesDay2">
+        <test-method signature="TC04()[pri:0, instance:Tests.TestCasesDay2@3adcc812]" started-at="2021-09-24T17:53:33Z" name="TC04" finished-at="2021-09-24T17:53:45Z" duration-ms="12399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method signature="TC05()[pri:0, instance:Tests.TestCasesDay2@3adcc812]" started-at="2021-09-24T17:53:45Z" name="TC05" finished-at="2021-09-24T17:53:56Z" duration-ms="10275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05 -->
+        <test-method signature="TC06()[pri:0, instance:Tests.TestCasesDay2@3adcc812]" started-at="2021-09-24T17:53:56Z" name="TC06" finished-at="2021-09-24T17:54:02Z" duration-ms="6515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06 -->
+      </class> <!-- Tests.TestCasesDay2 -->
+      <class name="Tests.TestCasesDay3">
+        <test-method signature="TC07()[pri:0, instance:Tests.TestCasesDay3@4b23c30a]" started-at="2021-09-24T17:54:02Z" name="TC07" finished-at="2021-09-24T17:54:12Z" duration-ms="9458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07 -->
+        <test-method signature="TC08()[pri:0, instance:Tests.TestCasesDay3@4b23c30a]" started-at="2021-09-24T17:54:12Z" name="TC08" finished-at="2021-09-24T17:54:17Z" duration-ms="5881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08 -->
+        <test-method signature="TC09()[pri:0, instance:Tests.TestCasesDay3@4b23c30a]" started-at="2021-09-24T17:54:17Z" name="TC09" finished-at="2021-09-24T17:54:25Z" duration-ms="7639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09 -->
+        <test-method signature="TC10()[pri:0, instance:Tests.TestCasesDay3@4b23c30a]" started-at="2021-09-24T17:54:25Z" name="TC10" finished-at="2021-09-24T17:54:35Z" duration-ms="10162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10 -->
+      </class> <!-- Tests.TestCasesDay3 -->
+      <class name="Tests.TestCasesDay1">
+        <test-method signature="TC01()[pri:0, instance:Tests.TestCasesDay1@9ebe38b]" started-at="2021-09-24T17:52:56Z" name="TC01" finished-at="2021-09-24T17:53:08Z" duration-ms="12661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method signature="TC02()[pri:0, instance:Tests.TestCasesDay1@9ebe38b]" started-at="2021-09-24T17:53:08Z" name="TC02" finished-at="2021-09-24T17:53:22Z" duration-ms="13855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method signature="TC03()[pri:0, instance:Tests.TestCasesDay1@9ebe38b]" started-at="2021-09-24T17:53:22Z" name="TC03" finished-at="2021-09-24T17:53:33Z" duration-ms="10579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+      </class> <!-- Tests.TestCasesDay1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

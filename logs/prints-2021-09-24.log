@@ -1,0 +1,6 @@
+17:54:23.177 [main] INFO  pageObjects.HomePage - Get test data from excel sheet for Test ID: testCase09[SUCCESS]
+17:54:24.965 [main] INFO  pageObjects.HomePage - Extracting Price of Anton Study Table: SUCCESS
+17:54:25.166 [main] INFO  pageObjects.HomePage - Price: ?11,899
+17:54:25.166 [main] INFO  pageObjects.HomePage - TC09 Passed: SUCCESS
+17:54:32.117 [main] INFO  pageObjects.HomePage - Driver Initialization: SUCCESS
+17:54:34.046 [main] INFO  pageObjects.HomePage - Get test data from excel sheet for Test ID: testCase10[SUCCESS]
