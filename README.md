@@ -1,4 +1,4 @@
-# Comprehensive-Assessment-Hybrid
+# Hybrid Framework
 
 ## Project:
 An automated hybrid framework for running test scripts and ensuring the software user requirement for a demo client is assured.
