@@ -11,6 +11,10 @@ An automated hybrid framework for running test scripts and ensuring the software
 * Jenkins
 * TestNG
 
+## Script output:
+After successful build and execution, the following screen can be used for verification of the test scripts:
+![Test output of the script](https://github.com/ipop67799/Hybrid-Framework-Automation-Testing/blob/main/test-output/Screenshot%20from%202021-10-20%2012-47-44.png)
+
 ## How to run:
 Clone this repository and use Eclipse to install the dependency.
 
